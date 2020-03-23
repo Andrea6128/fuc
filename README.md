@@ -7,4 +7,4 @@ curses (built-in)
 
 # run
 resize your terminal window to at least 100 characters wide
-run python3 fuc.py
+python3 fuc.py
